@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: black;
+}
+
+#text-editor {
+  width: 900px;
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+#file-picker {
+  margin-bottom: 20px;
+}
+
+#save-btn {
+  padding: 10px;
+  cursor: pointer;
+}
+
+#message {
+  color: green;
+  margin-top: 10px;
+}
+
+#error-message {
+  color: red;
+  margin-top: 10px;
+}
